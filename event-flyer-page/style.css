@@ -1,0 +1,36 @@
+body {
+    padding: 50px 0;
+    font-family: Arial, sans-serif;
+    margin: 0 auto;
+    width: 90vw;
+    min-height: calc(100vh - 100px);
+    text-align: center;
+
+}
+
+img {
+    width: 300px;
+}
+
+span {
+    font-weight: bold;
+}
+
+hr {
+    width: 70%;
+    height: 2px;
+    background-color: black;
+    margin: 30px auto;
+
+}
+
+section {
+    display: inline-block;
+    width: 30%;
+    padding: 50px 5px;
+    vertical-align: top; /* Align sections to the top */
+}
+
+ul li {
+    list-style-position: outside;
+}
